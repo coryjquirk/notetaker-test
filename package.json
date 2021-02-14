@@ -1,5 +1,5 @@
 {
-  "name": "rename-me",
+  "name": "NoteTaker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -15,6 +15,6 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
+  "author": "coryjquirk",
   "license": "ISC"
 }
